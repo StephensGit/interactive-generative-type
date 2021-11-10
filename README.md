@@ -1,6 +1,6 @@
 # interactive-generative-type - P5 Assignment
 
-This project was developed for an assignment I received during 4th year on an Interactive Graphics module on the Creative Computing course at IADT [https://iadt.ie/courses/creative-computing/].
+This project was developed for an assignment I received during 4th year on an Interactive Graphics module on the Creative Computing course at IADT [https://iadt.ie/courses/creative-computing/]. 
 
 
 ## Table of contents
